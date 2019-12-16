@@ -1,12 +1,11 @@
-# Base template for Gulp
+**Cross-browser project is adaptive for any device**
 
-## Task
+**Technology:**
+* Flex
+* SCSS
+* jQuery
+* Media queries
+* Methodology BEM
+***
 
----
-**Read the guideline before start**
-
-[Guideline](https://github.com/mate-academy/js_task-DOM-guideline)
-
-**Result**
-
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+**[UPDATED DEMO LINK](https://artemmarkevych1.github.io/reliable-test/)**
